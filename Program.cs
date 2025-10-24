@@ -122,6 +122,8 @@ class Program
         {
 
             Console.WriteLine("\n\nRegion files updated successfully!");
+            Console.WriteLine("\n\nPress any key to exit...");
+            Console.ReadKey();
         }
         else
         {
